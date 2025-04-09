@@ -1,3 +1,5 @@
+### THIS REPOSITORY HAS BEEN MERGED INTO [WÖRTERBUCH](https://github.com/babymotte/worterbuch) AND IS NO LONGER MAINTAINED
+
 # Wörterbuch Cluster Orchestrator
 
 This is the orchestration layer of a Wörterbuch server cluster. It takes care of leader election and putting the node it manages in the correct mode as required.
